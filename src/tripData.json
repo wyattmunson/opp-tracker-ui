@@ -1,0 +1,1602 @@
+[
+  {
+    "city": "Saiki",
+    "state": "",
+    "country": "Japan",
+    "startDate": "Nov 22, 2008",
+    "endDate": "Nov 24, 2008",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Beppu",
+    "state": "",
+    "country": "Japan",
+    "startDate": "Nov 23, 2008",
+    "endDate": "Nov 24, 2008",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Kyoto",
+    "state": "",
+    "country": "Japan",
+    "startDate": "Nov 26, 2008",
+    "endDate": "Nov 28, 2008",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Tokyo",
+    "state": "",
+    "country": "Japan",
+    "startDate": "Nov 28, 2008",
+    "endDate": "Nov 30, 2008",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "New York City, NY",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Nov 25, 2009",
+    "endDate": "Nov 27, 2009",
+    "nights": 2,
+    "days": 3,
+    "notes": "Thanksgiving?"
+  },
+  {
+    "city": "Harrisonburg",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Apr 22, 2011",
+    "endDate": "Apr 23, 2011",
+    "nights": 1,
+    "days": 2,
+    "notes": "Visit with Lizzy and Leah"
+  },
+  {
+    "city": "Lafayette",
+    "state": "IN",
+    "country": "US",
+    "startDate": "Jul 14, 2011",
+    "endDate": "Jul 15, 2011",
+    "nights": 1,
+    "days": 2,
+    "notes": "Pitstop on the way to Pitchfork 2011"
+  },
+  {
+    "city": "Gary",
+    "state": "IN",
+    "country": "US",
+    "startDate": "Jul 15, 2011",
+    "endDate": "Jul 15, 2011",
+    "nights": 0,
+    "days": 1,
+    "notes": "Stop by Michael Jackson's childhood home"
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "startDate": "Jul 15, 2011",
+    "endDate": "Jul 17, 2011",
+    "nights": 2,
+    "days": 3,
+    "notes": "Pitchfork Festival 2011"
+  },
+  {
+    "city": "Petersburg",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Aug 21, 2011",
+    "endDate": "Aug 21, 2011",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Amagansett",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Nov 23, 2011",
+    "endDate": "Nov 27, 2011",
+    "nights": 4,
+    "days": 5,
+    "notes": "Thanksgiving 2011"
+  },
+  {
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "country": "US",
+    "startDate": "May 13, 2013",
+    "endDate": "May 17, 2013",
+    "nights": 4,
+    "days": 5,
+    "notes": "Beach Week, graduation"
+  },
+  {
+    "city": "Manchester",
+    "state": "TN",
+    "country": "US",
+    "startDate": "Jun 13, 2013",
+    "endDate": "Jun 16, 2013",
+    "nights": 3,
+    "days": 4,
+    "notes": "Bonnaroo 2013"
+  },
+  {
+    "city": "Nashville, TN",
+    "state": "TN",
+    "country": "US",
+    "startDate": "Dec 29, 2013",
+    "endDate": "Jan 1, 2014",
+    "nights": 3,
+    "days": 4,
+    "notes": ""
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "startDate": "May 16, 2014",
+    "endDate": "May 16, 2014",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Grants Pass, OR",
+    "state": "OR",
+    "country": "US",
+    "startDate": "May 18, 2014",
+    "endDate": "May 18, 2014",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Portland, OR",
+    "state": "OR",
+    "country": "US",
+    "startDate": "May 20, 2014",
+    "endDate": "May 20, 2014",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "startDate": "May 8, 2015",
+    "endDate": "May 10, 2015",
+    "nights": 2,
+    "days": 3,
+    "notes": "Pitchfork 2015"
+  },
+  {
+    "city": "Kure Beach",
+    "state": "SC",
+    "country": "US",
+    "startDate": "Jun 26, 2015",
+    "endDate": "Jun 28, 2015",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "US",
+    "startDate": "Jul 2, 2015",
+    "endDate": "Jul 3, 2015",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Somwhere",
+    "state": "",
+    "country": "Dominican Republic",
+    "startDate": "Jul 8, 2015",
+    "endDate": "Jul 16, 2015",
+    "nights": 8,
+    "days": 9,
+    "notes": ""
+  },
+  {
+    "city": "Santo Domingo",
+    "state": "",
+    "country": "Dominican Republic",
+    "startDate": "Jul 16, 2015",
+    "endDate": "Jul 16, 2015",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "startDate": "Jul 16, 2015",
+    "endDate": "Jul 19, 2015",
+    "nights": 3,
+    "days": 4,
+    "notes": "Pitchfork Music Festival, met Tom and crew"
+  },
+  {
+    "city": "Glenwood Springs",
+    "state": "CO",
+    "country": "US",
+    "startDate": "Jul 21, 2015",
+    "endDate": "Jul 23, 2015",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Grants Pass, OR",
+    "state": "OR",
+    "country": "US",
+    "startDate": "Jul 25, 2015",
+    "endDate": "Jul 26, 2015",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Dash Point SP",
+    "state": "OR",
+    "country": "US",
+    "startDate": "Jul 26, 2015",
+    "endDate": "Jul 27, 2015",
+    "nights": 1,
+    "days": 2,
+    "notes": "Camping in Dash Point SP in Oregon"
+  },
+  {
+    "city": "Vancouver",
+    "state": "",
+    "country": "Canada",
+    "startDate": "Jul 27, 2015",
+    "endDate": "Jul 29, 2015",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Portland, OR",
+    "state": "OR",
+    "country": "US",
+    "startDate": "Jul 31, 2015",
+    "endDate": "Aug 3, 2015",
+    "nights": 3,
+    "days": 4,
+    "notes": ""
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Aug 4, 2015",
+    "endDate": "Aug 6, 2015",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Pismo Beach",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Aug 6, 2015",
+    "endDate": "Aug 7, 2015",
+    "nights": 1,
+    "days": 2,
+    "notes": "Beach camping"
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "startDate": "Aug 8, 2015",
+    "endDate": "Aug 10, 2015",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Oro",
+    "state": "",
+    "country": "Canada",
+    "startDate": "Jul 22, 2016",
+    "endDate": "Jul 24, 2016",
+    "nights": 2,
+    "days": 3,
+    "notes": "Wayhome 2016"
+  },
+  {
+    "city": "San Juan",
+    "state": "",
+    "country": "Puerto Rico",
+    "startDate": "Dec 28, 2016",
+    "endDate": "Jan 2, 2017",
+    "nights": 5,
+    "days": 6,
+    "notes": ""
+  },
+  {
+    "city": "Somwhere",
+    "state": "",
+    "country": "Isreal",
+    "startDate": "Mar 13, 2017",
+    "endDate": "Mar 16, 2017",
+    "nights": 3,
+    "days": 4,
+    "notes": "Landed in Isreal on Mar 13"
+  },
+  {
+    "city": "Jerusalem",
+    "state": "",
+    "country": "Israel",
+    "startDate": "Mar 16, 2017",
+    "endDate": "Mar 18, 2017",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Tel Aviv",
+    "state": "",
+    "country": "Israel",
+    "startDate": "Mar 21, 2017",
+    "endDate": "Mar 23, 2017",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "startDate": "May 28, 2017",
+    "endDate": "May 29, 2017",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Pai",
+    "state": "",
+    "country": "Thailand",
+    "startDate": "Jun 2, 2017",
+    "endDate": "Jun 3, 2017",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Chang Mai",
+    "state": "",
+    "country": "Thailand",
+    "startDate": "Jun 4, 2017",
+    "endDate": "Jun 5, 2017",
+    "nights": 1,
+    "days": 2,
+    "notes": "in Chang mai a day before too? or on the train"
+  },
+  {
+    "city": "Koh Samui",
+    "state": "",
+    "country": "Thailand",
+    "startDate": "Jun 5, 2017",
+    "endDate": "Jun 7, 2017",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Vientiane, LAO",
+    "state": "",
+    "country": "Laos",
+    "startDate": "Jun13, 2017",
+    "endDate": "Jun 15, 2017",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "startDate": "Jul 10, 2017",
+    "endDate": "Jul 14, 2017",
+    "nights": 4,
+    "days": 5,
+    "notes": "DTX 1"
+  },
+  {
+    "city": "Chicago",
+    "state": "MI",
+    "country": "US",
+    "startDate": "Jul 14, 2017",
+    "endDate": "Jul 15, 2017",
+    "nights": 1,
+    "days": 2,
+    "notes": "Pitchfork 2017"
+  },
+  {
+    "city": "Glen Arbor",
+    "state": "MI",
+    "country": "US",
+    "startDate": "Jul 15, 2017",
+    "endDate": "Jul 16, 2017",
+    "nights": 1,
+    "days": 2,
+    "notes": "First DTLP event in Glen Arbor"
+  },
+  {
+    "city": "Seoul",
+    "state": "",
+    "country": "South Korea",
+    "startDate": "Jul 22, 2017",
+    "endDate": "Jul 28, 2017",
+    "nights": 6,
+    "days": 7,
+    "notes": ""
+  },
+  {
+    "city": "Busan",
+    "state": "",
+    "country": "South Korea",
+    "startDate": "Jul 27, 2017",
+    "endDate": "Jul 27, 2017",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Toronto",
+    "state": "",
+    "country": "Canada",
+    "startDate": "Aug 12, 2017",
+    "endDate": "Aug 13, 2017",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "startDate": "Aug 25, 2017",
+    "endDate": "Aug 27, 2017",
+    "nights": 2,
+    "days": 3,
+    "notes": "Jay visits America"
+  },
+  {
+    "city": "Amagansett",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Sep 2, 2017",
+    "endDate": "Sep 5, 2017",
+    "nights": 3,
+    "days": 4,
+    "notes": "Jay Visits Amagansett"
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "startDate": "Sep 13, 2017",
+    "endDate": "Sep 15, 2017",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Erlanger",
+    "state": "KY",
+    "country": "US",
+    "startDate": "Sep 15, 2017",
+    "endDate": "Sep 15, 2017",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Glen Arbor",
+    "state": "MI",
+    "country": "US",
+    "startDate": "Oct 20, 2017",
+    "endDate": "Oct 21, 2017",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "N. Manitou Island",
+    "state": "MI",
+    "country": "US",
+    "startDate": "Oct 21, 2017",
+    "endDate": "Oct 22, 2017",
+    "nights": 1,
+    "days": 2,
+    "notes": "Camping trip on North Manitou Island"
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "startDate": "Oct 25, 2017",
+    "endDate": "Oct 29, 2017",
+    "nights": 4,
+    "days": 5,
+    "notes": "Voodoo 2017"
+  },
+  {
+    "city": "Amagansett",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Nov 22, 2017",
+    "endDate": "Nov 25, 2017",
+    "nights": 3,
+    "days": 4,
+    "notes": "Thanksgiving 2017"
+  },
+  {
+    "city": "New York City, NY",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Dec 30, 2017",
+    "endDate": "Jan 1, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": "NYC with Charles"
+  },
+  {
+    "city": "Barcelona",
+    "state": "",
+    "country": "Spain",
+    "startDate": "Jan 25, 2018",
+    "endDate": "Jan 30, 2018",
+    "nights": 5,
+    "days": 6,
+    "notes": ""
+  },
+  {
+    "city": "Madrid",
+    "state": "",
+    "country": "Spain",
+    "startDate": "Jan 30, 2018",
+    "endDate": "Jan 31, 2018",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Tangier",
+    "state": "",
+    "country": "Morocco",
+    "startDate": "Jan 31, 2018",
+    "endDate": "Feb 2, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Madrid",
+    "state": "",
+    "country": "Spain",
+    "startDate": "Feb 2, 2018",
+    "endDate": "Feb 4, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "startDate": "Mar 29, 2018",
+    "endDate": "Mar 30, 2018",
+    "nights": 1,
+    "days": 2,
+    "notes": "Fly to Atlanta before Nashville trip"
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "startDate": "March 30, 2018",
+    "endDate": "April 1, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": "DTLPs take on Nashville"
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "startDate": "May 3, 2018",
+    "endDate": "May 6, 2018",
+    "nights": 3,
+    "days": 4,
+    "notes": "Shaky Knees 2018"
+  },
+  {
+    "city": "Uvita",
+    "state": "",
+    "country": "Costa Rica",
+    "startDate": "May 23, 2018",
+    "endDate": "May 24, 2018",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Arenal",
+    "state": "",
+    "country": "Costa Rica",
+    "startDate": "May 24, 2018",
+    "endDate": "May 27, 2018",
+    "nights": 3,
+    "days": 4,
+    "notes": ""
+  },
+  {
+    "city": "San Jose",
+    "state": "",
+    "country": "Costa Rica",
+    "startDate": "May 27, 2018",
+    "endDate": "May 28, 2018",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Amagansett",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Jun 1, 2018",
+    "endDate": "Jun 3, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": "Visit Joe and Jeff before ALJ"
+  },
+  {
+    "city": "Crotonville",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Jun 4, 2018",
+    "endDate": "Jun 8, 2018",
+    "nights": 4,
+    "days": 5,
+    "notes": "ALJ"
+  },
+  {
+    "city": "New York City, NY",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Jun 8, 2018",
+    "endDate": "Jun 10, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": "Brooklyn trip after ALJ"
+  },
+  {
+    "city": "Gainsville",
+    "state": "FL",
+    "country": "US",
+    "startDate": "Jul 13, 2018",
+    "endDate": "Jul 15, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": "Visit Gabby and Jakrit"
+  },
+  {
+    "city": "Geneva",
+    "state": "",
+    "country": "Switzerland",
+    "startDate": "Jul 28, 2018",
+    "endDate": "Aug 2, 2018",
+    "nights": 5,
+    "days": 6,
+    "notes": ""
+  },
+  {
+    "city": "Annecy",
+    "state": "",
+    "country": "France",
+    "startDate": "Jul 31, 2018",
+    "endDate": "Jul 31, 2018",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Budapest",
+    "state": "",
+    "country": "Hungary",
+    "startDate": "Aug 2, 2018",
+    "endDate": "Aug 11, 2018",
+    "nights": 9,
+    "days": 10,
+    "notes": ""
+  },
+  {
+    "city": "Munich",
+    "state": "",
+    "country": "Germany",
+    "startDate": "Aug 11, 2018",
+    "endDate": "Aug 13, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Dornbirn",
+    "state": "",
+    "country": "Austria",
+    "startDate": "Aug 13, 2018",
+    "endDate": "Aug 14, 2018",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Prague",
+    "state": "",
+    "country": "Czechia",
+    "startDate": "Aug 14, 2018",
+    "endDate": "Aug 16, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Berlin",
+    "state": "",
+    "country": "Germany",
+    "startDate": "Aug 16, 2018",
+    "endDate": "Aug 19, 2018",
+    "nights": 3,
+    "days": 4,
+    "notes": ""
+  },
+  {
+    "city": "Amsterdam",
+    "state": "",
+    "country": "Netherlands",
+    "startDate": "Aug 19, 2018",
+    "endDate": "Aug 23, 2018",
+    "nights": 4,
+    "days": 5,
+    "notes": ""
+  },
+  {
+    "city": "Beijing",
+    "state": "",
+    "country": "China",
+    "startDate": "Sep 22, 2018",
+    "endDate": "Sep 24, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Sep24, 2018",
+    "endDate": "Sep 25, 2018",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Ji'nan",
+    "state": "",
+    "country": "China",
+    "startDate": "Sep 24, 2018",
+    "endDate": "Sep 25, 2018",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Shanghai",
+    "state": "",
+    "country": "China",
+    "startDate": "Sep 25, 2018",
+    "endDate": "Sep 27, 2018",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Beijing",
+    "state": "",
+    "country": "China",
+    "startDate": "Sep27, 2018",
+    "endDate": "Sep 28, 2018",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "startDate": "Oct 10, 2018",
+    "endDate": "Oct 15, 2018",
+    "nights": 5,
+    "days": 6,
+    "notes": "ACL 2018"
+  },
+  {
+    "city": "San Marcos",
+    "state": "TX",
+    "country": "US",
+    "startDate": "Oct 11, 2018",
+    "endDate": "Oct 11, 2018",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Lilgonwe",
+    "state": "",
+    "country": "Malawi",
+    "startDate": "Oct 20, 2018",
+    "endDate": "Oct 27, 2018",
+    "nights": 7,
+    "days": 8,
+    "notes": ""
+  },
+  {
+    "city": "Reykjavík",
+    "state": "",
+    "country": "Iceland",
+    "startDate": "Jan 31, 2019",
+    "endDate": "Feb 1, 2019",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Vik",
+    "state": "",
+    "country": "Iceland",
+    "startDate": "Feb 1, 2019",
+    "endDate": "Feb 1, 2019",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Flúðir",
+    "state": "",
+    "country": "Iceland",
+    "startDate": "Feb 1, 2019",
+    "endDate": "Feb 3, 2019",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Snowshoe",
+    "state": "WV",
+    "country": "US",
+    "startDate": "Mar 16, 2019",
+    "endDate": "Mar 16, 2019",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Williamsburg",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Apr 14, 2019",
+    "endDate": "Apr 14, 2019",
+    "nights": 0,
+    "days": 1,
+    "notes": "Istvan hits the outlet shops"
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "startDate": "Apr 19, 2019",
+    "endDate": "Apr 21, 2019",
+    "nights": 2,
+    "days": 3,
+    "notes": "Istvan, Emil, Daniel in BOS"
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "startDate": "May 9, 2019",
+    "endDate": "May 12, 2019",
+    "nights": 3,
+    "days": 4,
+    "notes": "Shaky Beats"
+  },
+  {
+    "city": "Amagansett",
+    "state": "NY",
+    "country": "US",
+    "startDate": "May 17, 2019",
+    "endDate": "May 19, 2019",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "US",
+    "startDate": "Jun 8, 2019",
+    "endDate": "Jun 9, 2019",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Vesuvius",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Jun 16, 2019",
+    "endDate": "Jun 16, 2019",
+    "nights": 0,
+    "days": 1,
+    "notes": "Slacks Overlook hike in Shannendoah NP"
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "startDate": "Jul 29, 2019",
+    "endDate": "Aug 2, 2019",
+    "nights": 4,
+    "days": 5,
+    "notes": "DTLP graduation in Miami"
+  },
+  {
+    "city": "Panama City",
+    "state": "",
+    "country": "Panama",
+    "startDate": "Aug 2, 2019",
+    "endDate": "Aug 6, 2019",
+    "nights": 4,
+    "days": 5,
+    "notes": "Panama with Alex, Dan, and Shannon"
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Aug 7, 2019",
+    "endDate": "Aug 11, 2019",
+    "nights": 4,
+    "days": 5,
+    "notes": "Post DTLP graduation trip to California"
+  },
+  {
+    "city": "Stokesville",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Oct 5, 2019",
+    "endDate": "Oct 6, 2019",
+    "nights": 1,
+    "days": 2,
+    "notes": "Camping with Morgan, Nate, and Josh"
+  },
+  {
+    "city": "Amagansett",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Nov 27, 2019",
+    "endDate": "Dec 1, 2019",
+    "nights": 4,
+    "days": 5,
+    "notes": "Thanksgiving 2019"
+  },
+  {
+    "city": "Bangkok",
+    "state": "",
+    "country": "Thailand",
+    "startDate": "Dec 8, 2019",
+    "endDate": "Dec 10, 2019",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Siem Reap",
+    "state": "",
+    "country": "Cambodia",
+    "startDate": "Dec 10, 2019",
+    "endDate": "Dec 12 2019",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Phnom Penh",
+    "state": "",
+    "country": "Cambodia",
+    "startDate": "Dec 12, 2019",
+    "endDate": "Dec 14, 2019",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Koh Rong",
+    "state": "",
+    "country": "Cambodia",
+    "startDate": "Dec 14, 2019",
+    "endDate": "Dec 16, 2019",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "state": "",
+    "country": "Vietnam",
+    "startDate": "Dec 17, 2019",
+    "endDate": "Dec 19, 2019",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Tokyo",
+    "state": "",
+    "country": "Japan",
+    "startDate": "Dec 20, 2019",
+    "endDate": "Dec 23, 2019",
+    "nights": 3,
+    "days": 4,
+    "notes": ""
+  },
+  {
+    "city": "New York City, NY",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Feb 6, 2020",
+    "endDate": "Feb 7, 2020",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Ludlow",
+    "state": "VT",
+    "country": "US",
+    "startDate": "Feb 7, 2020",
+    "endDate": "Feb 10, 2020",
+    "nights": 3,
+    "days": 4,
+    "notes": ""
+  },
+  {
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "US",
+    "startDate": "Aug 29, 2020",
+    "endDate": "Aug 30, 2020",
+    "nights": 1,
+    "days": 2,
+    "notes": "Caitlin going away party"
+  },
+  {
+    "city": "Nags Head",
+    "state": "NC",
+    "country": "US",
+    "startDate": "Sep 5, 2020",
+    "endDate": "Sep 9, 2020",
+    "nights": 4,
+    "days": 5,
+    "notes": "Beach with Nate and Chan"
+  },
+  {
+    "city": "Stokesville",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Sep 19, 2020",
+    "endDate": "Sep 20, 2020",
+    "nights": 1,
+    "days": 2,
+    "notes": "Camping"
+  },
+  {
+    "city": "New York City, NY",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Nov 4, 2020",
+    "endDate": "Nov 9, 2020",
+    "nights": 5,
+    "days": 6,
+    "notes": "Visit Alex and Liz during the Panny"
+  },
+  {
+    "city": "Hudson Valley",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Nov 7, 2020",
+    "endDate": "Nov 8, 2020",
+    "nights": 1,
+    "days": 2,
+    "notes": "Visit Guerci during the panny"
+  },
+  {
+    "city": "Norfolk",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Dec 11, 2020",
+    "endDate": "Dec 13, 2020",
+    "nights": 2,
+    "days": 3,
+    "notes": "Visit Shefali"
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "startDate": "Dec 16, 2020",
+    "endDate": "Dec 20, 2020",
+    "nights": 4,
+    "days": 5,
+    "notes": "Visit Dan's new condo"
+  },
+  {
+    "city": "Amagansett",
+    "state": "NY",
+    "country": "US",
+    "startDate": "May 11, 2021",
+    "endDate": "May 16, 2021",
+    "nights": 5,
+    "days": 6,
+    "notes": "Visit Amagansett"
+  },
+  {
+    "city": "San Bernadino",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Jun 24, 2021",
+    "endDate": "Jun 25, 2021",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Joshua Tree NP",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Jun 25, 2021",
+    "endDate": "Jun 25, 2021",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "startDate": "Jun 25, 2021",
+    "endDate": "Jun 28, 2021",
+    "nights": 3,
+    "days": 4,
+    "notes": ""
+  },
+  {
+    "city": "Flagstaff",
+    "state": "AZ",
+    "country": "US",
+    "startDate": "Jun 28, 2021",
+    "endDate": "Jun 29, 2021",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Hurricane",
+    "state": "UT",
+    "country": "US",
+    "startDate": "Jun 29, 2021",
+    "endDate": "Jun 30, 2021",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Owen Lake",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Jun 30, 2021",
+    "endDate": "Jun 30, 2021",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "San Diego, CA",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Aug 27, 2021",
+    "endDate": "Aug 29, 2021",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Nashville, TN",
+    "state": "TN",
+    "country": "US",
+    "startDate": "Sep 2, 2021",
+    "endDate": "Sep 6, 2021",
+    "nights": 4,
+    "days": 5,
+    "notes": "Bonnaroo replacement"
+  },
+  {
+    "city": "Farmingdale, NY",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Sep 9, 2021",
+    "endDate": "Sep 11, 2021",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "New York City, NY",
+    "state": "TN",
+    "country": "US",
+    "startDate": "Sep 11, 2021",
+    "endDate": "Sep 12, 2021",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Oct 8, 2021",
+    "endDate": "Oct 9, 2021",
+    "nights": 1,
+    "days": 2,
+    "notes": "Fly into RIC for Charles' Wedding"
+  },
+  {
+    "city": "Charlottesville",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Oct 9, 2021",
+    "endDate": "Oct 15, 2021",
+    "nights": 6,
+    "days": 7,
+    "notes": "Visiting friends and family before Charles' Wedding"
+  },
+  {
+    "city": "Morganton",
+    "state": "NC",
+    "country": "US",
+    "startDate": "Oct 15, 2021",
+    "endDate": "Oct 17, 2021",
+    "nights": 2,
+    "days": 3,
+    "notes": "Charles' Wedding"
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Nov 14, 2021",
+    "endDate": "Nov 15, 2021",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "startDate": "Nov 15, 2021",
+    "endDate": "Nov 17, 2021",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Massanutten, VA",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Nov 19, 2021",
+    "endDate": "Nov 21, 2021",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Crozet",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Nov 21, 2021",
+    "endDate": "Nov 28, 2021",
+    "nights": 7,
+    "days": 8,
+    "notes": ""
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "US",
+    "startDate": "Nov 28, 2021",
+    "endDate": "Dec 2, 2021",
+    "nights": 4,
+    "days": 5,
+    "notes": ""
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "US",
+    "startDate": "Nov 28, 2021",
+    "endDate": "Dec 2, 2021",
+    "nights": 4,
+    "days": 5,
+    "notes": ""
+  },
+  {
+    "city": "Los Padres NF",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Dec 11, 2021",
+    "endDate": "Dec 12, 2021",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Dec 17, 2021",
+    "endDate": "Dec 19, 2021",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Crozet",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Dec 19, 2021",
+    "endDate": "Dec 26, 2021",
+    "nights": 7,
+    "days": 8,
+    "notes": "Probably in Ivy a few of these days"
+  },
+  {
+    "city": "New York City, NY",
+    "state": "NY",
+    "country": "US",
+    "startDate": "Dec 26, 2021",
+    "endDate": "Jan 1, 2022",
+    "nights": 6,
+    "days": 7,
+    "notes": ""
+  },
+  {
+    "city": "Ivy",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Jan 1, 2022",
+    "endDate": "Jan 3, 2022",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "country": "US",
+    "startDate": "Jan 3, 2022",
+    "endDate": "Jan 5, 2022",
+    "nights": 2,
+    "days": 3,
+    "notes": ""
+  },
+  {
+    "city": "Guatemala City",
+    "state": "",
+    "country": "Guatemala",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Antigua",
+    "state": "",
+    "country": "Guatemala",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Miches",
+    "state": "",
+    "country": "Dominican Republic",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Los Platos",
+    "state": "",
+    "country": "Dominican Republic",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Carbondale, CO",
+    "state": "CO",
+    "country": "US",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": "Visit Amanda"
+  },
+  {
+    "city": "Cusco",
+    "state": "",
+    "country": "Peru",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Azores Island",
+    "state": "",
+    "country": "Azores",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Toronto",
+    "state": "",
+    "country": "Canada",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Vancouver",
+    "state": "",
+    "country": "Canada",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "East Jerusalem",
+    "state": "",
+    "country": "West Bank",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Quetzaltenango",
+    "state": "",
+    "country": "Guatemala",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Antigua",
+    "state": "",
+    "country": "Guatemala",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "country": "US",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "Bogota",
+    "state": "",
+    "country": "Colombia",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "",
+    "state": "",
+    "country": "",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "",
+    "state": "",
+    "country": "",
+    "startDate": "",
+    "endDate": "",
+    "nights": 0,
+    "days": 1,
+    "notes": ""
+  },
+  {
+    "city": "San Carlos",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Jan 21, 2022",
+    "endDate": "Jan 22, 2022",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  },
+  {
+    "city": "Los Padres NF",
+    "state": "CA",
+    "country": "US",
+    "startDate": "Jan 22, 2022",
+    "endDate": "Jan 23, 2022",
+    "nights": 1,
+    "days": 2,
+    "notes": ""
+  }
+]

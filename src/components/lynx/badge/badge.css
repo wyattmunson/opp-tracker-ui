@@ -1,0 +1,39 @@
+.lynxBadge {
+    /* background-color: grey; */
+    /* border: 1px solid black; */
+    background-color: grey;
+}
+
+:root {
+    --lynxColorPrimary: blue;
+}
+
+.lynxBadgePrimary {
+    background-color: var(--lynxColorPrimary)
+}
+
+.lynxFontSizeHalf {
+    font-size: 50%
+}
+.lynxFontSizeEightieth {
+    font-size: 80%
+}
+.lynxFontSize2x {
+    font-size: 110%
+}
+.lynxFontSize3x {
+    font-size: 140%
+}
+.lynxFontSize4x {
+    font-size: 180%
+}
+.lynxFontSize5x {
+    font-size: 225%
+}
+.lynxFontSize6x {
+    font-size: 270%
+}
+
+.lynxCenter {
+    text-align: center;
+}

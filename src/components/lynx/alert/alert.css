@@ -1,0 +1,157 @@
+.lynxAlertPopupContainer {
+    /* POSITIONING */
+    position: fixed;
+    z-index: 10;
+    top: 5%;
+    right: 5%;
+    border-radius: 5px;
+    
+    /* COLORING */
+    /* background-color: grey; */
+
+    /* ANIMATION */
+    animation: fadeInER 1s;
+
+    display: flex;
+}
+
+.lynxAlertContainer {
+    position: fixed;
+    z-index: 10;
+    top: 5%;
+    right: 5%;
+}
+
+
+.lynxAlertPopupContainerIcon {
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+}
+
+/* FADE IN AND BACK OUT */
+@keyframes fadeInER {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+/* @keyframes fadeInER {
+    0%,100% { opacity: 0; }
+    50% { opacity: 1; }
+  } */
+
+.lynxAlertPopupContainer p {
+    margin-bottom: 0
+}
+
+.lynxAlertPopupContainerHeader {
+    padding: 0.5rem;
+    background-color: lightgray;
+    /* border-radius: 8px; */
+    /* border-top-right-radius: 8px; */
+    /* border-top-left-radius: 8px; */
+}
+.lynxAlertPopupContainerBody {
+    padding: 0.5rem;
+    padding-top: 0;
+    /* border-bottom-right-radius: 8px; */
+    /* border-bottom-left-radius: 8px; */
+}
+
+/* .lynxAlertDiv {
+
+} */
+
+/*
+* NEW 
+*/
+
+.lynxAlertPopperContiner {
+    display: flex;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.lynxAlertPopperContiner h3 {
+    margin: auto 0.75rem auto 0rem;
+
+}
+
+.lynxAlertPopperIcon {
+    display: flex;
+}
+
+/* 
+*
+* COLORS
+*
+ */
+
+.lynxClSuccess {
+    color: white;
+    background-color: #4caf50
+}
+
+.lynxClSuccessSubdued {
+    color: black;
+    background-color: #deffdd;
+}
+
+
+.lynxClPrimary {
+    color: white;
+    background-color: #2196f3;
+}
+
+.lynxClPrimarySubdued {
+    color: white;
+    background-color: #defffe;
+}
+
+.lynxClSecondary {
+    color: white;
+    background-color: gray;
+}
+
+.lynxClSecondarySubdued {
+    color: black;
+    background-color: lightgray;
+}
+
+.lynxClDanger {
+    color: white;
+    background-color: #f44336;
+}
+
+.lynxClDangerSubdued {
+    color: black;
+    background-color: #ffdddd;
+}
+
+.lynxClAlert {
+    color: white;
+    background-color: #ff9800
+}
+.lynxAlertSubdued {
+    color: black;
+    background-color: #ffcb7f
+}
+
+.lynxClWarning {
+    color: white;
+    background-color: #ffc008;
+}
+
+.lynxClWarningSubdued {
+    color: black;
+    background-color: #ffe189;
+}
+
+.lynxClInfo {
+    color: white;
+    background-color: #2196f3;
+}
+
+.lynxClInfoSubdued {
+    color: black;
+    background-color: #defffe;
+}

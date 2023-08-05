@@ -1,0 +1,34 @@
+[
+  {
+    "iataCode": "UA",
+    "icaoCode": "UAL",
+    "displayName": "United Airlines"
+  },
+  {
+    "iataCode": "WN",
+    "icaoCode": "SWA",
+    "displayName": "South West Airlines"
+  },
+  {
+    "iataCode": "DL",
+    "icaoCode": "DAL",
+    "displayName": "Delta Airlines"
+  },
+  {
+    "iataCode": "AA",
+    "icaoCode": "AAL",
+    "displayName": "American Airlines"
+  },
+  {
+    "iataCode": "US",
+    "icaoCode": "AWE",
+    "displayName": "US Airways",
+    "designator": "Cactus"
+  },
+  {
+    "iataCode": "LH",
+    "icaoCode": "DLH",
+    "displayName": "Lufthansa",
+    "designator": "LUFTHANSA"
+  }
+]

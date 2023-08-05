@@ -1,0 +1,989 @@
+.App {
+  /* text-align: center; */
+  height: 100%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* 
+
+WYATT STYLE
+
+*/
+
+.wsCountryCard {
+  width: auto;
+  margin: 0.25rem;
+}
+
+.wsLocationBlock {
+  margin: 2rem 0 3rem 0;
+}
+
+.wsStatCard {
+  width: 15rem;
+  margin: 2rem 1rem 0 0;
+}
+
+.wsStatCard h1 {
+  margin: 0;
+}
+
+.wsItemSearch {
+  border: 1px solid #6b6b6b;
+  padding: 1.5rem;
+  /* display: flex; */
+  background-color: rgb(240, 240, 240);
+  margin: 1rem 0;
+}
+
+.wsSearchResultsBox {
+  margin: 1rem 0;
+}
+.wsItemSearch h3 {
+  color: grey;
+}
+.wsItemSearch i {
+  color: black;
+}
+
+.wsIconRight {
+  text-align: right !important;
+  color: green;
+}
+
+.wsEditModal p {
+  text-align: center;
+}
+
+.wsPointer {
+  cursor: pointer;
+}
+
+.lynxPointer {
+  cursor: pointer;
+}
+
+i {
+  cursor: pointer;
+}
+
+.wsBoxChangeBox {
+  text-align: center;
+  margin: 1rem 0;
+}
+.wsBoxChangeBox p {
+  color: grey;
+  margin: 0.3rem 0;
+}
+
+.centerMe {
+  text-align: center;
+}
+
+.wsBoxButtonGroup {
+  margin: 2rem 0;
+}
+
+.lynxLoaderBox {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+.lynxLoaderBar {
+  width: 10px;
+  height: 70px;
+  background: #fff;
+  display: inline-block;
+  transform-origin: bottom center;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  /*   box-shadow:5px 10px 20px inset rgba(255,23,25.2); */
+  animation: loader 1.2s linear infinite;
+}
+.lynxBar1 {
+  animation-delay: 0.1s;
+}
+.lynxBar2 {
+  animation-delay: 0.2s;
+}
+.lynxBar3 {
+  animation-delay: 0.3s;
+}
+.lynxBar4 {
+  animation-delay: 0.4s;
+}
+.lynxBar5 {
+  animation-delay: 0.5s;
+}
+.lynxBar6 {
+  animation-delay: 0.6s;
+}
+.lynxBar7 {
+  animation-delay: 0.7s;
+}
+.lynxBar8 {
+  animation-delay: 0.8s;
+}
+
+/* @keyframes loader {
+  0% {
+    transform: scaleY(0.1);
+    background: ;
+  }
+  50% {
+    transform: scaleY(1);
+    background: rgb(0, 160, 112);
+  }
+  100% {
+    transform: scaleY(0.1);
+    background: transparent;
+  }
+} */
+
+.lynxFlightRow p,
+h3,
+h5,
+h6 {
+  margin-bottom: 0;
+}
+
+.lynxFlightRow {
+  /* border: 1px black solid; */
+  margin: 0.4rem 0;
+  background-color: lightgray;
+  box-shadow: 2px 2px 3px grey;
+}
+
+.lynxTripRow {
+  border: 1px black solid;
+}
+
+.lynxSelectedBox {
+  background-color: grey;
+  color: white;
+}
+
+.lynxFlightListRow {
+  margin: 0.25rem 0;
+  background-color: rgb(196, 196, 196);
+  padding: 0.25rem;
+  align-items: center;
+}
+
+.lynxAddTripForm {
+  align-items: flex-end;
+  display: flex;
+}
+
+.lynxFlightForm {
+  margin: 1.5rem 0 0 0;
+}
+
+.lynxSaveNotification i {
+  margin: 0.75rem 0.5rem 0 0;
+  color: grey;
+}
+
+.lynxEditItemBox {
+  margin: 0.75rem 0;
+}
+
+.selectMe {
+  margin-bottom: 1.5rem;
+}
+
+.lynxTextLevel2 {
+  color: #6b6b6b;
+}
+
+.noMargin {
+  margin: 0;
+}
+
+.lynxTableInputSm input {
+  width: 5rem;
+  min-width: 2rem;
+  font-size: 1rem;
+}
+
+.lynxCard {
+  width: auto;
+}
+
+.autoWidth {
+  width: auto;
+}
+
+/* 
+* DARK MODE THEMES
+*/
+
+/* .dmL1 {
+  background-color: #041c32;
+}
+
+.dmL2 {
+  background-color: #04293a;
+  color: white;
+}
+
+.dmL3 {
+  background-color: #064663;
+}
+
+.dmL4 {
+  background-color: #ecb365;
+} */
+
+.redText {
+  color: red;
+}
+
+.greenText {
+  color: green;
+}
+
+.tickerCard {
+  margin: 0.5rem;
+}
+
+.tickerCard h5,
+p {
+  margin-bottom: 0;
+}
+
+.tickerPercent {
+  margin: 0.75rem;
+}
+
+.lynxLegBox {
+  outline: 1px black solid;
+  padding: 0.5rem;
+  margin: 1rem 0;
+}
+
+.packinglist ul {
+  list-style: none;
+  margin: 0;
+  /* float: left; */
+}
+
+/**
+  * REMAIN BAR
+  */
+
+.consumeableButton {
+  margin-bottom: 1.5rem;
+}
+.consumableContainer {
+  margin: 0;
+}
+
+.remainBarContainer {
+  margin: 1rem 0;
+}
+
+.remainBarContainerRow {
+  margin: 1rem 0;
+  justify-content: center;
+}
+
+.remainBarColumn {
+  padding: 0;
+  margin-right: -1px;
+}
+.remainBarSegment {
+  display: flex;
+  height: 2.5rem;
+  border: 1px solid black;
+  text-align: center;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  /* border-radius: 4px; */
+  color: white;
+  background-color: lightgray;
+}
+
+.rbsActive {
+  background-color: rgb(33, 37, 158);
+}
+
+.rbsHoverPrimary {
+  background-color: rgb(42, 47, 191);
+}
+.rbsHoverSecondary {
+  /* background-color: rgb(25, 28, 235); */
+  background-color: rgb(50, 57, 250);
+}
+
+.rbsBorderPrimary {
+  border: 1px blue solid;
+}
+
+/* FILTER BAR - SHOW COLUMMNS */
+.showColumnsContainer {
+  background-color: rgb(240, 240, 240);
+  padding: 0.5rem;
+  margin: 0 0 0.25rem;
+  border: 1px black solid;
+}
+
+.showColumnsContainer h5 {
+  color: grey;
+  margin: 0 0 0.25rem;
+  cursor: pointer;
+}
+
+.showColumnSelectBoxes {
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-start;
+  padding: 0;
+  margin: 0.5rem 0 0.25rem;
+}
+
+.showColumnSelectBoxes li {
+  margin-right: 0.5rem;
+  /* padding-right: 0.25rem; */
+}
+
+.showColumnSelectBoxes col {
+  width: 2.5rem;
+}
+
+/* CONSUMABLE EDIT CONTAINER */
+.consumableEditContainer {
+  margin: 1rem 0;
+}
+
+.itemViewBanner {
+  background-color: rgb(235, 235, 235);
+  border: 1px black solid;
+  padding: 0.5rem;
+}
+
+.itemViewBanner .row,
+p {
+  margin: 0 0 0.5rem;
+}
+/* .itemViewBanner h6 {
+  font-weight: bold;
+} */
+
+.dataPointContainer h6 {
+  font-weight: bold;
+}
+
+.dataPointContainer p:hover {
+  background-color: gray;
+}
+
+/* EDIT BOX */
+.lynxEditBoxButtonContainer {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 0 auto;
+}
+
+.lynxEditBoxButtonContainer button {
+  margin: 0 0.5rem 0 0;
+}
+/* Can rename lynxEditItemBox to lynxEditBox */
+
+.lynxEditBoxHeader {
+  display: flex;
+}
+
+.metadataContainer {
+  margin: 1.5rem 0;
+}
+.metadataContainer h5 {
+  margin-bottom: 0.75rem;
+}
+
+.lynxTooltipContainer {
+  /* display: flex; */
+  display: inline-block;
+}
+
+.lynxTooltip {
+  position: absolute;
+  /* transform: translate(-50%, 0)rotate(-45deg); */
+  /* transform: translate(-25%, 0)rotate(0deg); */
+  background-color: grey;
+  margin: 1.25rem auto 0 -5%;
+}
+
+.lynxTooltip {
+  /* height: 100px; */
+  /* width: 200px; */
+  height: auto;
+  width: auto;
+  border: 3px solid gray;
+  background: lightgray;
+  /* padding: 20px 0; */
+  /* position: relative; */
+}
+.lynxTooltip:before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  width: 0;
+  /* border-top: 20px solid black; */
+  border-bottom: 20px solid black;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
+
+.lynxTableSmText {
+  font-size: 80%;
+}
+
+/* 
+ * OPPORTUNITIES
+  */
+
+.oppDetailContainer {
+  /* margin: 1rem 0 0 0; */
+  padding: 1rem 0;
+}
+
+.dataBlockCol p {
+  margin-bottom: 0;
+}
+
+.oppHeaderContainer {
+  margin: 1rem 0;
+}
+
+
+.tableRowContainer {
+  margin: 0 0 -1px 0;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  padding: 0.5rem 0 0;
+  /* background-color: gray; */
+}
+
+.oppTableHeaderContainer {
+  padding: 1rem 0;
+}
+
+.lynxLimeGreenText {
+  color: greenyellow;
+
+}
+
+.lynxCdPill {
+  color: greenyellow;
+  border: 1px solid greenyellow;
+}
+
+.lynxCdPillInverse {
+  background-color: greenyellow;
+  border: 1px solid greenyellow;
+}
+
+.lynxOrangeText {
+  color: orange;
+}
+
+.lynxFfPill {
+  color: orange;
+  border: 1px solid orange;
+}
+
+.lynxFfPillInverse {
+  background-color: orange;
+  border: 1px solid orange;
+}
+
+.lynxBlueText {
+  color: rgb(34, 127, 198);
+}
+
+.lynxCiPill {
+  color: rgb(34, 127, 198);
+  border: 1px solid rgb(34, 127, 198);
+}
+
+.lynxCiPillInverse {
+  background-color: rgb(34, 127, 198);
+  border: 1px solid rgb(34, 127, 198);
+}
+
+.lynxBlueGreenText {
+  color: rgb(2, 133, 120);
+}
+
+.lynxCcmPill {
+  background-color: rgb(2, 133, 120);
+  border: 1px solid rgb(2, 133, 120);
+}
+
+.lynxCcmPillInverse {
+  background-color: rgb(2, 133, 120);
+  border: 1px solid rgb(2, 133, 120);
+}
+
+.lynxGrayText {
+  color: gray;
+}
+
+.lynxGrayPill {
+  color: gray;
+  border: 1px solid gray; 
+}
+
+.lynxGrayPill {
+  background-color: gray;
+  border: 1px solid gray; 
+  color: white
+}
+
+.whiteBoxShadow {
+  background-color: white;
+  padding: 0.5rem;
+  border-radius: 4px;
+  /* box-shadow: 2px 2px 2px lightgray; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.editItemContainer {
+  margin: 1rem 0;
+  padding: 1rem;
+}
+
+.lynxGFormSelectContainer label {
+  margin-bottom: 0.5rem;
+}
+
+.lynxGFormSelectContainer {margin-bottom: 1rem;}
+
+.createCallContainer {
+  margin: 1rem 0;
+}
+
+.attendeeBadge {
+  margin-right: 0.25rem;
+}
+
+.oppsContainer {
+  /* background-color: white; */
+  padding-bottom: 2rem;
+  /* height: 100%; */
+}
+
+/* ACTION ITEM */
+.actionItemListItem {
+  /* border: 1px gray solid; */
+  color: rgb(84, 84, 84);
+  font-size: 85%;
+  border-top: 1px gray solid;
+  border-bottom: 1px gray solid;
+  /* margin: 1rem 0; */
+  /* margin: 0.25rem 0; */
+  /* GOOD BELOW */
+  margin: 0 0 -1px 0;
+  padding: 0.25rem 0;
+}
+
+.actionItemListItem div:first-child {
+  padding-left: 0;
+}
+.actionItemListItem div:last-child {
+  text-align: right;
+  padding-right: 0;
+  /* display: flex;
+  align-items: center; */
+}
+
+.actionItemListHeader {
+  margin: 0 0 -1px 0;
+  padding: 0.25rem 0;
+}
+
+.actionItemListHeader div:first-child {
+  padding-left: 0;
+}
+.actionItemListHeader div:last-child {
+  text-align: right;
+  padding-right: 0;
+}
+
+/* .actionItemListItem ~ div {
+  margin-left: 0;
+}
+
+.actionItemListItem div {
+  margin-left: 0;
+} */
+
+/* .firstCol {
+  margin: 0;
+  padding: 0;
+} */
+
+.oppContentBlock {
+  margin: 1.5rem 0;
+  background-color: white;
+  padding: 0.5rem;
+  border-radius: 4px;
+  /* box-shadow: 2px 2px 2px lightgray; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.oppTableHeader {
+  color: rgb(56, 56, 56);
+}
+
+/* GLOBAL */
+.quickRight {
+  text-align: right;
+  float: right;
+}
+
+.quickCenter {
+  text-align: center;
+}
+
+.subtleRedAlert {
+  color: rgb(154, 24, 24);
+}
+
+.subtleOrangeAlert {
+  color: rgb(237, 154, 0);
+}
+
+.createOppContainer {
+  margin: 1rem 0;
+}
+
+.createOppFormCotainer {
+  margin: 1rem 0;
+}
+
+.timelineBlockContainer {
+  /* border: 1px rgb(183, 183, 183) solid; */
+  background-color: white;
+  padding: 0.5rem;
+}
+
+.timelineBlockContainer p {
+  color: rgb(65, 65, 65);
+}
+
+.timelineBlockContainer small {
+  color: gray;
+}
+
+.listItemInactive {
+  color: grey !important;
+}
+
+.stageNumberIcon {
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border-color: black;
+  background-color: black;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 1rem;
+}
+
+.noUnderscore {
+  text-decoration: none;
+}
+
+.lynxTextarea {
+  width: 100%;
+}
+
+.lynxTextareaContainer {
+  margin-bottom: 1rem;
+}
+
+.lynxTextareaContainer label {
+  margin-bottom: 0.5rem;
+}
+
+.completeButton {
+  /* display: flex; */
+}
+
+.completeButton button {
+  /* align-items: flex-end; */
+  margin: 2rem 0 0 0;
+  width: 100%
+}
+
+/* 
+  * DETAIL BLOCK 
+  */
+.detailBlockContainer {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 1.5rem 0;
+}
+
+.detailBlockHeader {
+  /* background-color: rgb(231, 231, 231); */
+  border-bottom: 1px solid lightgray;
+  padding: 0.5rem;
+}
+
+.detailBlockContent {
+  padding: 0.5rem;
+  /* margin: 1rem */
+}
+
+.detailBlockHeader h4 {
+  margin: 0;
+}
+
+.detailBlockHeaderRow {
+  display: flex;
+  align-items: center;
+}
+
+.detailBlockHeaderRow a {
+  margin-left: 0.5rem;
+}
+
+.attendeeCloseButton {
+  border: 1px grey solid;
+  color: gray
+}
+
+.allItemsContainer {
+  margin: 1rem 0;
+  background-color: white;
+  padding: 0.5rem;
+  border-radius: 4px;
+  /* box-shadow: 2px 2px 2px lightgray; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.notesRenderListItem {
+  display: flex;
+}
+
+.notesRenderListItemText {
+  margin-left: 0.5rem; 
+
+}
+
+.labelMargin {
+  margin-bottom: 0.5rem;
+}
+
+.quickLeft {
+  text-align: left !important;
+}
+
+.dateRow {
+  margin: 0.5rem 0;
+}
+
+.dateRow span { 
+  margin-right: 0.5rem;
+}
+
+.attendeeRow {
+  margin: 0 0 0.5rem 0;
+}
+
+.ediOppButtons {
+  text-align: right;
+  margin-left: 0.5rem;
+}
+.ediOppButtons a {
+
+  margin-left: 0.5rem;
+}
+
+.lynxCard {
+  /* width: auto; */
+  /* min-width: 3rem; */
+  min-width: 5rem;
+  margin: 0.5rem;
+}
+
+.overviewBlock {
+  width: auto;
+  margin: 0 1rem 0 0;
+}
+
+.buttonSpacing a {
+  margin-left: 0.5rem;
+}
+
+.gongButton {
+  color: rgb(135, 29, 135);
+  border-color: rgb(135, 29, 135);
+}
+.gongButton :hover {
+  background-color: rgb(135, 29, 135);
+}
+
+.oppSwitchCard {
+  width: 10rem;
+  text-align: center;
+}
+
+.oppSwitchCardLink {
+  text-decoration: none !important;
+}
+
+.noUnderline {
+  text-decoration: none !important;
+}
+
+.pageLoaderContainer {
+  text-align: center;
+  margin: 5rem 0;
+}
+
+.pageLoaderContainer h3 {
+  margin: 1rem 0;
+  color: grey;
+}
+
+.lynxCricleLoader {
+  width: 48px;
+  height: 48px;
+  border: 3px dotted #FFF;
+  border-style: solid solid dotted dotted;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  box-sizing: border-box;
+  animation: rotation 2s linear infinite;
+}
+.lynxCricleLoader::after {
+  content: '';  
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  border: 3px dotted #FF3D00;
+  border-style: solid solid dotted;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  animation: rotationBack 1s linear infinite;
+  transform-origin: center center;
+}
+    
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} 
+@keyframes rotationBack {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+} 
+
+.allPeopleContainer {
+  margin: 2rem 0;
+}
+
+/* OLD TAVEL AGAIN */
+
+.lynx-fadein {
+  transition: opacity 0.5s;
+  opacity: 1;
+}
+.lynx-fadein.hide {
+  opacity: 0;
+  pointer-events:none;
+}
+
+.segmentDisplay {
+  border: 1px solid black !important; 
+  padding: 0.5rem;
+  border-radius: 10px; 
+}
+
+.lynxFontDigital {
+  font-family: "DotGothic16", 'Courier New', Courier, monospace
+}
+.lynxFontDigital2x {
+  font-family: "DotGothic16", 'Courier New', Courier, monospace;
+  font-size: 125%
+}
+.lynxFontDigital3x {
+  font-family: "DotGothic16", 'Courier New', Courier, monospace;
+  font-size: 150%
+}
+
+.lynxBgColorBlue {
+  background-color: rgb(53, 53, 213); 
+}
+
+.airlineTicketHeaderBar {
+  color: white; 
+  background-color: rgb(53, 53, 213); 
+  padding: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.lynxTxRight {
+  text-align: right
+}
+
+.lynxTxLeft {
+  text-align: left
+}
